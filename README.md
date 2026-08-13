@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Garv Shaw
+# Hey, I'm Garv Shaw 
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 
 ### 📊 AI for Business | 📈 Capital Markets | 🌐 Technology & Innovation
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 Connect With Me
 
 <a href="www.linkedin.com/in/garv-shaw-08a33237b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,6 +54,18 @@
 </div>
 
 ---
+# 🧠 Skill Badges
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/65fd51a2-8d6e-4875-afb0-a7ad63059d92" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/fd705f92-f9f6-448d-839e-88f7dd302b57" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b7f8e425-5f04-4ee9-82d1-b2bbeaee393b" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f64ff1c8-ef35-4e18-9779-3a2f4c4cfc86" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/5cedc7ad-5ccb-4e73-ab6e-6e2d5a9e9216" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/156c88e6-b622-49fa-9b33-c891785c2d7e" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/c25a7d10-a629-4944-bbca-1ff0d300ac0a" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/e3e7c4e7-d537-4339-b382-fbe9220f89e6" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/84bf165d-a565-4e95-b407-621a0dc704fa" /> 
+
+
+
+
+
+
+
+
+
 
 # 🧑‍💻 About Me
 
@@ -341,54 +353,75 @@ The goal is to make financial-market learning more:
 
 # 🚀 Featured Projects
 
+# 1. Project
+
 ## 📈 StockMentor
 
-### **AI × Finance × Education**
+### The Socratic AI-Powered Stock Market Learning Platform
 
-An educational stock-market platform focused on helping users understand:
+StockMentor is an interactive AI-powered financial education platform designed to help beginners and aspiring traders understand the stock market through **Socratic learning, real-world scenarios, interactive charts, quizzes, simulations, and personalized feedback**.
 
-* 📊 Capital Markets
-* 📈 Stock Market Concepts
-* 💹 Trading Concepts
-* 🧠 AI-assisted Learning
-* 📚 Financial Education
-* 📉 Market Visualization
-* 🎯 Trading Simulation
+Instead of simply telling users what a financial concept means, StockMentor teaches them **how to think about it**.
 
-**Technology:** AI • Web Development • Financial Education • Data Visualization
+> 🧠 **Learn → Practice → Analyze → Simulate → Test → Improve → Master**
+
+Live Demo: https://stock-mentortutor.vercel.app/
 
 ---
 
-## 🎲 Dice Roll
+## 🚀 Why StockMentor?
 
-### **Simple Idea → Interactive Game**
+Traditional financial platforms often overwhelm beginners with:
 
-A two-player dice game where players roll dice and compare their results.
+- Complex financial terminology
+- Dense research reports
+- Complicated charts
+- Too much information at once
+- Little practical learning
+- No personalized feedback
 
-### 🎮 Features
+StockMentor solves this by combining:
 
-* 👥 Two-player gameplay
-* 🎲 Random dice generation
-* 🏆 Winner detection
-* 🔄 Replay functionality
-* 📱 Responsive interface
-* ✨ Interactive UI
+**AI Tutor + Finance Curriculum + Interactive Charts + Trading Simulator + Exams + Stock Research + Gamification**
+
+The goal is not to tell users what stocks to buy.
+
+The goal is to teach users **how to analyze markets and make informed decisions themselves**.
 
 ---
 
-## 🌱 Green Futures Initiative
+# 2. Project
+   
+## 🕹️ MicroSkill  
+Solves the "infinite grind" problem of traditional e-learning by replacing passive consumption with high-engagement, science-backed micro-sessions.
 
-### **Technology × Sustainability × Climate Action**
+Live Demo: https://microskillversion-10.vercel.app/
 
-A project exploring how technology can contribute toward sustainability and climate action.
+### Key Differentiators
 
-### 🌍 Focus
+* **Science-Backed Algorithm:** Uses a spaced repetition scheduler combined with confidence calibration (not generic gamification).
+* **Session-Based UX:** Optimized for 5–15 minute natural endpoints.
+* **Measurable Retention:** Targets >80% 30-day recall benchmarks.
+* **Transparent Mastery:** Built on composite scores (Accuracy + Calibration + Consistency) rather than opaque "levels."
 
-* 🌱 Sustainable Development
-* ⚡ Clean Energy
-* 🏙️ Sustainable Cities
-* 🌎 Climate Action
-* 💡 Technology for Sustainability
+---
+
+## 🎮 Skill Categories & Game Types
+
+| Category | Key Metrics | Core Game Types |
+| --- | --- | --- |
+| **Typing** | WPM, Accuracy %, Key Error Rate | Keystroke Rhythm, Word Sprint, Autocorrect Hunt |
+| **Languages** | Receptive/Productive Fluency %, Confidence Alignment | Translation Match, Conversation Snippet, Vocabulary Duel, Phrase Builder |
+| **Mathematics** | Calculation Speed, Accuracy %, Problem-Solving Time | Calculation Sprint, Pattern Vault, Problem Solver, Equation Builder |
+| **Coding** | Syntax Accuracy %, Algorithm Efficiency, Debug Speed | Syntax Puzzle, Algorithm Visualizer, Bug Bounty, API Challenge |
+
+---
+
+## 🧠 Retention Science Engine
+
+* **Spaced Repetition:** Dynamic intervals shifting from 1 day up to 90 days based on mastery levels, historical decay rates, and actual accuracy.
+* **Confidence Calibration:** Tracks the delta between user-stated confidence (1–5 scale) and actual performance to fine-tune review intervals.
+* **Mastery Formula:**
 
 ---
 
@@ -410,33 +443,7 @@ A project exploring how technology can contribute toward sustainability and clim
 📈 AI for Business
 ```
 ---
-
-# 📈 My Developer Journey
-
-```text
-🎓 COMPUTER SCIENCE STUDENT
-            │
-            ▼
-      💻 PROGRAMMING
-            │
-            ▼
-    🌐 WEB DEVELOPMENT
-            │
-            ▼
-     ☁️ CLOUD COMPUTING
-            │
-            ▼
-    🤖 ARTIFICIAL INTELLIGENCE
-            │
-            ▼
-      📊 AI FOR BUSINESS
-            │
-            ▼
-      📈 FINTECH & MARKETS
-            │
-            ▼
-     🚀 REAL-WORLD PRODUCTS
-
+<div align="center">
 ---
 
 # 🤝 Open to Opportunities
@@ -470,8 +477,8 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
 
 <br>
 
-**Thanks for visiting my GitHub profile! 💙**
+ Thanks for visiting my GitHub profile! 
 
-⭐ *If you like my work, consider following my journey.*
+*If you like my work, consider following my journey.*
 
 </div>
