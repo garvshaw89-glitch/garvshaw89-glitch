@@ -75,179 +75,7 @@ Hello! I'm **Garv Shaw**, a passionate **B.Tech Computer Science & Engineering s
 
 I'm passionate about **building with AI**, developing modern web experiences, experimenting with emerging technologies, and turning ideas into useful digital products.
 
-I enjoy taking a project from:
-
-```text
-💡 IDEA
-   ↓
-🧠 RESEARCH
-   ↓
-🎨 DESIGN
-   ↓
-💻 DEVELOPMENT
-   ↓
-🤖 AI INTEGRATION
-   ↓
-🧪 TESTING
-   ↓
-☁️ DEPLOYMENT
-   ↓
-🚀 LAUNCH
-   ↓
-📈 IMPROVEMENT
-```
-
-My goal is to create products that are:
-
-**⚡ Fast • 🧠 Intelligent • ☁️ Scalable • 🔐 Secure • 🎨 Beautiful • 📱 Responsive • 📈 Impactful**
-
----
-
-# 🧠 My Technology Ecosystem
-
-```text
-                         🚀 TECHNOLOGY
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-         🤖 AI             ☁️ CLOUD          💻 WEB
-             │                │                │
-             ▼                ▼                ▼
-       Generative AI     Cloud Platforms     Frontend
-       AI Applications   Architecture        React
-       AI Automation     Deployment           JavaScript
-       AI for Business   Scalability          UI/UX
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                      📊 BUSINESS & FINANCE
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-             AI for Business      📈 Capital Markets
-                    │                   │
-                    └─────────┬─────────┘
-                              ▼
-                         💡 INNOVATION
-```
-
----
-
-# 🤖 Building With AI
-
-Artificial Intelligence is one of my biggest areas of interest.
-
-I don't want to simply **use AI tools** — I want to understand how AI can become part of real products, workflows, and businesses.
-
-### 🔥 Exploring
-
-* 🤖 Generative AI
-* 🧠 AI-assisted development
-* ✨ Prompt Engineering
-* 🔗 AI APIs
-* 🧩 AI Agents
-* ⚙️ AI Automation
-* 📊 AI for Business
-* 💬 Intelligent Assistants
-* 📈 AI-powered Analytics
-* 💡 AI Product Development
-* 🧠 Machine Learning
-* 🌐 AI-powered Web Applications
-
-### 🧰 AI Tools I Explore
-
-| Tool                      | Focus                                      |
-| ------------------------- | ------------------------------------------ |
-| 🤖 **ChatGPT**            | AI research, development & problem solving |
-| ✨ **Gemini**              | AI experimentation & multimodal workflows  |
-| 🧠 **Claude**             | AI-assisted reasoning & development        |
-| 🔵 **Google AI Studio**   | AI prototyping & model experimentation     |
-| 🚀 **Google Antigravity** | AI-assisted software development           |
-
-> **My goal isn't just to use AI — it's to build meaningful products with AI.**
-
----
-
-# ☁️ Cloud Computing
-
-I'm fascinated by how cloud technology allows applications to become:
-
-### **Scalable → Reliable → Available → Secure → Cost Efficient**
-
-### 🌩️ Currently Exploring
-
-* ☁️ Cloud Architecture
-* 🖥️ Cloud Computing
-* 🗄️ Cloud Storage
-* 🔌 APIs
-* ⚙️ Serverless Computing
-* 🐳 Containers
-* 🚀 Cloud Deployment
-* 🔄 CI/CD
-* 🔐 Cloud Security
-* 📊 Cloud Monitoring
-* 🌐 Distributed Systems
-* 📈 Scalability
-
----
-
-# 💻 Frontend Development
-
-I enjoy creating interfaces that don't just work — they **feel good to use**.
-
-### 🎨 My Frontend Interests
-
-* Modern UI
-* Responsive Design
-* Interactive Components
-* Web Applications
-* Dashboard Design
-* Data Visualization
-* Animations
-* Mobile-first Development
-* Accessibility
-* Performance Optimization
-* Dark Mode Interfaces
-* Clean User Experiences
-
----
-
-# 📈 Capital Markets & FinTech
-
-One of my interests outside pure software development is the intersection of:
-
-## **🤖 AI × 💻 Technology × 📈 Finance**
-
-I'm exploring:
-
-* 📊 Capital Markets
-* 📈 Stock Markets
-* 💹 Trading Concepts
-* 🧠 AI in Finance
-* 📉 Market Data
-* 💻 FinTech Applications
-* 📚 Financial Education
-* 🤖 AI-powered Financial Tools
-* 📊 Data Visualization
-* 📈 Financial Analytics
-
-### 🚀 StockMentor
-
-One of my projects, **StockMentor**, combines:
-
-### 📈 Capital Markets + 🤖 AI + 📚 Education + 💻 Technology
-
-The goal is to make financial-market learning more:
-
-**Interactive • Visual • Accessible • Educational**
-
-> ⚠️ StockMentor is an educational prototype and is not intended to provide financial advice.
-
----
-
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack 
 
 ## 👨‍💻 Programming Languages
 
@@ -365,28 +193,7 @@ Instead of simply telling users what a financial concept means, StockMentor teac
 
 > 🧠 **Learn → Practice → Analyze → Simulate → Test → Improve → Master**
 
-Live Demo: https://stock-mentortutor.vercel.app/
-
----
-
-## 🚀 Why StockMentor?
-
-Traditional financial platforms often overwhelm beginners with:
-
-- Complex financial terminology
-- Dense research reports
-- Complicated charts
-- Too much information at once
-- Little practical learning
-- No personalized feedback
-
-StockMentor solves this by combining:
-
-**AI Tutor + Finance Curriculum + Interactive Charts + Trading Simulator + Exams + Stock Research + Gamification**
-
-The goal is not to tell users what stocks to buy.
-
-The goal is to teach users **how to analyze markets and make informed decisions themselves**.
+Repository Link: https://github.com/garvshaw89-glitch/StockMentor
 
 ---
 
@@ -395,7 +202,7 @@ The goal is to teach users **how to analyze markets and make informed decisions 
 ## 🕹️ MicroSkill  
 Solves the "infinite grind" problem of traditional e-learning by replacing passive consumption with high-engagement, science-backed micro-sessions.
 
-Live Demo: https://microskillversion-10.vercel.app/
+Repository Link: https://github.com/garvshaw89-glitch/MicroSkill-Version-1.0
 
 ### Key Differentiators
 
@@ -404,46 +211,6 @@ Live Demo: https://microskillversion-10.vercel.app/
 * **Measurable Retention:** Targets >80% 30-day recall benchmarks.
 * **Transparent Mastery:** Built on composite scores (Accuracy + Calibration + Consistency) rather than opaque "levels."
 
----
-
-## 🎮 Skill Categories & Game Types
-
-| Category | Key Metrics | Core Game Types |
-| --- | --- | --- |
-| **Typing** | WPM, Accuracy %, Key Error Rate | Keystroke Rhythm, Word Sprint, Autocorrect Hunt |
-| **Languages** | Receptive/Productive Fluency %, Confidence Alignment | Translation Match, Conversation Snippet, Vocabulary Duel, Phrase Builder |
-| **Mathematics** | Calculation Speed, Accuracy %, Problem-Solving Time | Calculation Sprint, Pattern Vault, Problem Solver, Equation Builder |
-| **Coding** | Syntax Accuracy %, Algorithm Efficiency, Debug Speed | Syntax Puzzle, Algorithm Visualizer, Bug Bounty, API Challenge |
-
----
-
-## 🧠 Retention Science Engine
-
-* **Spaced Repetition:** Dynamic intervals shifting from 1 day up to 90 days based on mastery levels, historical decay rates, and actual accuracy.
-* **Confidence Calibration:** Tracks the delta between user-stated confidence (1–5 scale) and actual performance to fine-tune review intervals.
-* **Mastery Formula:**
-
----
-
-# 📚 Currently Learning
-
-```text
-🤖 Artificial Intelligence
-        ↓
-☁️ Cloud Computing
-        ↓
-💻 Full-Stack Development
-        ↓
-📊 Data & Analytics
-        ↓
-🧠 Machine Learning
-        ↓
-🚀 DevOps & Deployment
-        ↓
-📈 AI for Business
-```
----
-<div align="center">
 ---
 
 # 🤝 Open to Opportunities
