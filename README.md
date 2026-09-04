@@ -4,7 +4,7 @@
 
 ### 🚀 B.Tech Computer Science & Engineering
 
-### ☁️ Cloud Computing | 🤖 Artificial Intelligence | 💻 Frontend Development
+### ☁️ Cloud Computing | 🤖 Artificial Intelligence | 💻 Frontend Development | 💻 API 
 
 ### 📊 AI for Business | 📈 Capital Markets | 🌐 Technology & Innovation
 
