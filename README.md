@@ -22,7 +22,7 @@
 
 
 <sub>
-💼 LinkedIn • 📧 Email • 🐙 GitHub • 🤖 ChatGPT • ✨ Gemini • 🧠 Claude
+💼 LinkedIn • 📧 Email • 🐙 GitHub • 🤖 ChatGPT • 🧠 Claude
 </sub>
 
 <br>
