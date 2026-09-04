@@ -28,7 +28,7 @@
 <br>
 
 <sub>
-🔵 Google AI Studio • 🚀 Google Antigravity • 💻 VS Code • 🐍 Python • C • ▲ Vercel • 📈 Capital Markets
+🔵 Google AI Studio • 🚀 Google Antigravity • 💻 VS Code • 🐍 Python • C • ▲ Vercel • 📈 Capital Market
 </sub>
 
 <br><br>
