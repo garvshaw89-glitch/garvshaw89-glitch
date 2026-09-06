@@ -77,9 +77,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
 
 # 🚀 Featured Projects
 
-# 1. Project
-
-## 📈 StockMentor
+# 1. 📈 StockMentor
 
 ### The Socratic AI-Powered Stock Market Learning Platform
 
@@ -93,9 +91,8 @@ Repository Link: https://github.com/garvshaw89-glitch/StockMentor
 
 ---
 
-# 2. Project
+# 2. 🕹️ MicroSkill 
    
-## 🕹️ MicroSkill  
 Solves the "infinite grind" problem of traditional e-learning by replacing passive consumption with high-engagement, science-backed micro-sessions.
 
 Repository Link: https://github.com/garvshaw89-glitch/MicroSkill-Version-1.0
