@@ -1,18 +1,26 @@
-# Hey, I'm Garv Shaw 
+<!-- 3D Header Dynamic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=280&section=header&text=Garv%20Shaw&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20AI%20For%20Business%20%7C%20API%20Development&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Garv Shaw Banner" />
+
 
 <div align="center">
 
-### 🚀 B.Tech Computer Science & Engineering
+<!-- Dynamic Animated Typing Text -->
+<a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&lines=%F0%9F%9A%80+B.Tech+Computer+Science+%26+Engineering;%E2%98%81%EF%B8%8F+Cloud+Computing+%7C+%F0%9F%A4%96+Artificial+Intelligence;%F0%9F%92%BB+Frontend+Development+%7C+%F0%9F%92%BB+API;%F0%9F%93%8A+AI+for+Business+%7C+%F0%9F%93%88+Capital+Markets;%F0%9F%8C%90+Technology+%26+Innovation" alt="Typing SVG" />
+</a>
 
-### ☁️ Cloud Computing | 🤖 Artificial Intelligence | 💻 Frontend Development | 💻 API 
-
-### 📊 AI for Business | 📈 Capital Markets | 🌐 Technology & Innovation
-### Portfolio Website: https://portfoliowebsite-omega-rouge.vercel.app/
 <div align="center">
 
 # 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvshaw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/garv-shaw-08a33237b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvshawinfo@gmail.com) 
+| Channel | Destination | Action |
+| :--- | :--- | :--- |
+| 🌐 **Live Portfolio** | [portfoliowebsite-omega-rouge.vercel.app](https://portfoliowebsite-omega-rouge.vercel.app/) | [Explore Projects ↗](https://portfoliowebsite-omega-rouge.vercel.app/) |
+| 💼 **LinkedIn** | [linkedin.com/in/garv-shaw-08a33237b](https://www.linkedin.com/in/garv-shaw-08a33237b) | [Connect on LinkedIn ↗](https://www.linkedin.com/in/garv-shaw-08a33237b) |
+| 📸 **Instagram** | [@garvshaw](https://instagram.com/garvshaw) | [Follow @garvshaw ↗](https://instagram.com/garvshaw) |
+| ✉️ **Personal Email** | `garvshaw89@gmail.com` | [Send Email ↗](mailto:garvshaw89@gmail.com) |
+| 💼 **Enquiry Email** | `garvshawinfo@gmail.com` | [Business Inquiries ↗](mailto:garvshawinfo@gmail.com) |
+| 🐙 **GitHub** | [@garvshaw89-glitch](https://github.com/garvshaw89-glitch) | [Follow on GitHub ↗](https://github.com/garvshaw89-glitch) |
 
 
 </div>
@@ -140,5 +148,16 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
  Thanks for visiting my GitHub profile! 
 
 *If you like my work, consider following my journey.*
+
+</div>
+<br/>
+
+<div align="center">
+   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+
+  <sub>⚡ Engineered with passion by <b>Garv Shaw</b> • Crafted for high-impact artificial intelligence systems.</sub>
+</p>
 
 </div>
