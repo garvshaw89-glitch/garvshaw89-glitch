@@ -83,34 +83,66 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Flagship Projects
 
-# 1. 📈 StockMentor
-
-### The Socratic AI-Powered Stock Market Learning Platform
-
-StockMentor is an interactive AI-powered financial education platform designed to help beginners and aspiring traders understand the stock market through **Socratic learning, real-world scenarios, interactive charts, quizzes, simulations, and personalized feedback**.
-
-Instead of simply telling users what a financial concept means, StockMentor teaches them **how to think about it**.
-
-> 🧠 **Learn → Practice → Analyze → Simulate → Test → Improve → Master**
-
-Repository Link: https://github.com/garvshaw89-glitch/StockMentor
-
----
-
-# 2. 🕹️ MicroSkill 
-   
-Solves the "infinite grind" problem of traditional e-learning by replacing passive consumption with high-engagement, science-backed micro-sessions.
-
-Repository Link: https://github.com/garvshaw89-glitch/MicroSkill-Version-1.0
-
-### Key Differentiators
-
-* **Science-Backed Algorithm:** Uses a spaced repetition scheduler combined with confidence calibration (not generic gamification).
-* **Session-Based UX:** Optimized for 5–15 minute natural endpoints.
-* **Measurable Retention:** Targets >80% 30-day recall benchmarks.
-* **Transparent Mastery:** Built on composite scores (Accuracy + Calibration + Consistency) rather than opaque "levels."
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ SalaryOS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Enterprise_Dashboard-06B6D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-React_•_TypeScript_•_Tailwind-blue?style=flat-square" />
+      </p>
+      <p>A mission-critical enterprise compensation and human capital intelligence suite. Features predictive salary modeling, interactive payroll analytics, and real-time executive reporting pipelines.</p>
+      <ul>
+        <li>📊 Real-time payroll breakdown & team performance heatmaps</li>
+        <li>🔐 Role-based executive views & compensation projections</li>
+        <li>📈 Interactive financial trend forecast modeling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 StockMentor Terminal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-FinTech_Trading_App-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Next.js_•_WebSockets_•_Tailwind-emerald?style=flat-square" />
+      </p>
+      <p>High-frequency quantitative trading dashboard paired with an interactive market literacy learning path. Features live candlestick feeds, order book simulations, and algorithmic risk telemetry.</p>
+      <ul>
+        <li>📉 Real-time price action charts with technical indicators</li>
+        <li>🧠 Gamified financial literacy curriculum & progress tracking</li>
+        <li>⚡ Sub-millisecond latency UI updates for market volatility</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⌨️ Typing Test Pro</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-Gamified_Tool-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-React_19_•_Motion_•_Vite-purple?style=flat-square" />
+      </p>
+      <p>Futuristic keystroke velocity testing arena featuring real-time WPM calculation, keystroke accuracy heatmaps, historical performance telemetry, and cybernetic audio-visual feedback.</p>
+      <ul>
+        <li>🔥 Dynamic WPM / CPM velocity calculator with zero-lag input</li>
+        <li>🎯 Granular key-by-key accuracy & error heatmaps</li>
+        <li>🏆 Persistent session history with personal best leaderboards</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 MicroSkill Arcade</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Type-EdTech_Arcade-EC4899?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-TypeScript_•_Tailwind_•_Motion-pink?style=flat-square" />
+      </p>
+      <p>Interactive micro-learning portal translating intricate Computer Science and Cloud Computing concepts into fast-paced gamified challenges and structured milestone journeys.</p>
+      <ul>
+        <li>🧩 Byte-sized coding simulations with instant validation</li>
+        <li>🏅 Skill tree progressions with verifiable achievement badges</li>
+        <li>🚀 Interactive sandbox playground for emerging tech stacks</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
