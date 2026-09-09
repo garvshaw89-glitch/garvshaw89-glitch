@@ -1,6 +1,8 @@
-<!-- 3D Header Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=280&section=header&text=Garv%20Shaw&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20AI%20For%20Business%20%7C%20API%20Development&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Garv Shaw Banner" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch hero visual" />
+</p>
 
+</div>
 
 <div align="center">
 
@@ -53,18 +55,10 @@
 </div>
 
 ---
-# 🧠 Skill Badges
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/65fd51a2-8d6e-4875-afb0-a7ad63059d92" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/fd705f92-f9f6-448d-839e-88f7dd302b57" />
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b7f8e425-5f04-4ee9-82d1-b2bbeaee393b" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f64ff1c8-ef35-4e18-9779-3a2f4c4cfc86" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/5cedc7ad-5ccb-4e73-ab6e-6e2d5a9e9216" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/156c88e6-b622-49fa-9b33-c891785c2d7e" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/c25a7d10-a629-4944-bbca-1ff0d300ac0a" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/e3e7c4e7-d537-4339-b382-fbe9220f89e6" /> <img width="180" height="120" alt="image" src="https://github.com/user-attachments/assets/84bf165d-a565-4e95-b407-621a0dc704fa" /> 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch highlights visual" />
 
-
-
-
-
-
-
-
-
+</p> 
 
 # 🧑‍💻 About Me
 
@@ -186,7 +180,10 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
 
 <div align="center">
    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43,31,24,12,1&height=120&section=footer" width="100%" alt="Footer Wave" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch social visual" />
+</p>
+
 
 
   <sub>⚡ Engineered with passion by <b>Garv Shaw</b> • Crafted for high-impact artificial intelligence systems.</sub>
