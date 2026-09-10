@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch hero visual" />
-</p>
+<div align="center">
 
+<!-- Top Animated Cyber Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=220&section=header&text=GARV%20SHAW&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-INNOVATION%20%E2%80%A2%20API-DEVELOPMENT%20%E2%80%A2%20CLOUD%20ENGINEERING&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Garv Shaw Header Banner" />
 </div>
 
 <div align="center">
@@ -13,16 +13,25 @@
 
 <div align="center">
 
-# 🌐 Connect With Me
+# 📬 Connect Me
 
-| Channel | Destination | Action |
-| :--- | :--- | :--- |
-| 🌐 **Live Portfolio** | [portfoliowebsite-omega-rouge.vercel.app](https://portfoliowebsite-omega-rouge.vercel.app/) | [Explore Projects ↗](https://portfoliowebsite-omega-rouge.vercel.app/) |
-| 💼 **LinkedIn** | [linkedin.com/in/garv-shaw-08a33237b](https://www.linkedin.com/in/garv-shaw-08a33237b) | [Connect on LinkedIn ↗](https://www.linkedin.com/in/garv-shaw-08a33237b) |
-| 📸 **Instagram** | [@garvshaw](https://instagram.com/garvshaw) | [Follow @garvshaw ↗](https://instagram.com/garvshaw) |
-| ✉️ **Personal Email** | `garvshaw89@gmail.com` | [Send Email ↗](mailto:garvshaw89@gmail.com) |
-| 💼 **Enquiry Email** | `garvshawinfo@gmail.com` | [Business Inquiries ↗](mailto:garvshawinfo@gmail.com) |
-| 🐙 **GitHub** | [@garvshaw89-glitch](https://github.com/garvshaw89-glitch) | [Follow on GitHub ↗](https://github.com/garvshaw89-glitch) |
+<p>Have an ambitious project in mind, an opportunity in AI/Cloud engineering, or want to collaborate?</p>
+
+<a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live_Portfolio-Vercel_Deployment-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+</a>
+<a href="mailto:garvshawinfo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-garvshawinfo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Garv" />
+</a>
+<a href="https://linkedin.com/in/garv-shaw-08a33237b">
+  <img src="https://img.shields.io/badge/LinkedIn-Garv_Shaw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/garvshaw89-glitch">
+  <img src="https://img.shields.io/badge/GitHub-garvshaw89--glitch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/garvshaw">
+  <img src="https://img.shields.io/badge/Instagram-@garvshaw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 
 </div>
@@ -55,10 +64,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch highlights visual" />
-
-</p> 
 
 # 🧑‍💻 About Me
 
@@ -180,10 +185,11 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
 
 <div align="center">
    
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=garvshaw89-glitch&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F227670313%3Fu%3D66e21ad647aa750fb1383fc5b95a12351eceabc6%26v%3D4" alt="garvshaw89-glitch social visual" />
-</p>
 
+<!-- Animated Bottom Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,1&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+<p align="center">
 
 
   <sub>⚡ Engineered with passion by <b>Garv Shaw</b> • Crafted for high-impact artificial intelligence systems.</sub>
