@@ -18,7 +18,7 @@
 <p>Have an ambitious project in mind, an opportunity in AI/Cloud engineering, or want to collaborate?</p>
 
 <a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live_Portfolio-Vercel_Deployment-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  <img src="https://img.shields.io/badge/Live_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 <a href="mailto:garvshawinfo@gmail.com">
   <img src="https://img.shields.io/badge/Email-garvshawinfo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Garv" />
