@@ -115,7 +115,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⌨️ Typing Speed Checker</h3>
+      <h3 align="center">⌨️ Typing Speed Test </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Type-Gamified_Tool-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-React_19_•_Motion_•_Vite-purple?style=flat-square" />
