@@ -100,7 +100,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 StockMentor Terminal</h3>
+      <h3 align="center">📈 StockMentor </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Type-FinTech_Trading_App-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-Next.js_•_WebSockets_•_Tailwind-emerald?style=flat-square" />
@@ -115,7 +115,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⌨️ Typing Speed Tester</h3>
+      <h3 align="center">⌨️ Typing Speed Checker</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Type-Gamified_Tool-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-React_19_•_Motion_•_Vite-purple?style=flat-square" />
@@ -128,7 +128,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 MicroSkill Arcade</h3>
+      <h3 align="center">🎮 MicroSkill </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Type-EdTech_Arcade-EC4899?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-TypeScript_•_Tailwind_•_Motion-pink?style=flat-square" />
