@@ -82,7 +82,7 @@ I'm passionate about **building with AI**, developing modern web experiences, ex
 
 ---
 
-## 💼 Flagship Projects
+# 💼 Flagship Projects
 
 <table>
   <tr>
