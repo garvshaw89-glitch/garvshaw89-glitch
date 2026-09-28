@@ -1,9 +1,7 @@
-<div align="center">
 
-<!-- Top Animated Cyber Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=220&section=header&text=GARV%20SHAW&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-INNOVATION%20%E2%80%A2%20API-DEVELOPMENT%20%E2%80%A2%20CLOUD%20ENGINEERING&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Garv Shaw Header Banner" />
-</div>
+<!-- HERO -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B0F14,100:00E5FF&height=230&section=header&text=GARV%20SHAW&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=UI/UX%20%E2%80%A2%20FRONTEND%20%E2%80%A2%20CLOUD%20ENGINEERING&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 <div align="center">
 
 <!-- Dynamic Animated Typing Text -->
@@ -74,7 +72,38 @@ Hello! I'm **Garv Shaw**, a passionate **B.Tech Computer Science & Engineering s
 I'm passionate about **building with AI**, developing modern web experiences, experimenting with emerging technologies, and turning ideas into useful digital products.
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=plastic&logo=deno&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=plastic&logo=gatsby&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=plastic&logo=Cockroach%20Labs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=plastic&logo=gitpod&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=plastic&logo=gitee&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=plastic&logo=codecov&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
+
+### LANGUAGES
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,ts" />
+</p>
+
+### FRONTEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+</p>
+
+### BACKEND & RUNTIME
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### CLOUD & INFRASTRUCTURE
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify,docker,kubernetes,nginx" />
+</p>
+
+### TOOLS & ECOSYSTEM
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,unity,arduino" />
+</p>
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=garvshaw89-glitch&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -184,14 +213,13 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
 </div>
 <br/>
 
-<div align="center">
-   
 
 <!-- Animated Bottom Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,6,1&height=120&section=footer" width="100%" alt="Footer Banner" />
+<br>
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B0F14,100:050505&height=120&section=footer&animation=fadeIn" width="100%"/>
 
+<div align="center">
 
   <sub>⚡ Engineered with passion by <b>Garv Shaw</b> • Crafted for high-impact artificial intelligence systems.</sub>
 </p>
