@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Dynamic Animated Typing Text -->
-<a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank">
+<a href="https://blog-website-mauve-seven.vercel.app/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&repeat=true&width=680&lines=%F0%9F%9A%80+B.Tech+Computer+Science+%26+Engineering;%E2%98%81%EF%B8%8F+Cloud+Computing+%7C+%F0%9F%A4%96+Artificial+Intelligence;%F0%9F%92%BB+Frontend+Development+%7C+%F0%9F%92%BB+API;%F0%9F%93%8A+AI+for+Business+%7C+%F0%9F%93%88+Capital+Markets;%F0%9F%8C%90+Technology+%26+Innovation" alt="Typing SVG" />
 </a>
 
@@ -17,7 +17,7 @@
 
 <p>Have an ambitious project in mind, an opportunity in AI/Cloud engineering, or want to collaborate?</p>
 
-<a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://blog-website-mauve-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Live_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 <a href="mailto:garvshawinfo@gmail.com">
