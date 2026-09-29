@@ -216,7 +216,7 @@ I'm always open to **learning, collaborating, building, and exploring new ideas*
 <!-- Animated Bottom Waving Footer -->
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B0F14,100:050505&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B0F14,100:050505&height=170&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
