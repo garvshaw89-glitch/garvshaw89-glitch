@@ -1,7 +1,6 @@
-
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B0F14,100:00E5FF&height=230&section=header&text=GARV%20SHAW&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=UI/UX%20%E2%80%A2%20FRONTEND%20%E2%80%A2%20CLOUD%20ENGINEERING&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B0F14,100:00E5FF&height=250&section=header&text=GARV%20SHAW&fontSize=55&fontColor=FFFFFF&fontAlignY=42&desc=UI/UX%20%E2%80%A2%20FRONTEND%20%E2%80%A2%20CLOUD%20ENGINEERING&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 <div align="center">
 
 <!-- Dynamic Animated Typing Text -->
